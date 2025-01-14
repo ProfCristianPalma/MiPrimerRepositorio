@@ -8,3 +8,5 @@ ITSAO 14/01/2025
 Autor: Cristian Alonso Palma Sifuentes
 
 Curso de Control de Versiones
+
+Lorem

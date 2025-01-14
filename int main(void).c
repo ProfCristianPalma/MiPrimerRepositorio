@@ -1,4 +1,4 @@
 int main(void)
 {
-    printf("Agregamos un nuevo archivo llamado main, modificacion extra")
+    printf("Agregamos un nuevo archivo llamado main, Lorem")
 }
